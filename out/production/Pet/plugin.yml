@@ -1,0 +1,8 @@
+main: com.jakob.pet.main.Main
+name: Pets
+version: 1.0
+author: Jakob
+depend: [PermissionsEx]
+
+commands:
+  pets:

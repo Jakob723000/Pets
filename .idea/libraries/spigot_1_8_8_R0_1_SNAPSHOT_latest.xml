@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spigot-1.8.8-R0.1-SNAPSHOT-latest">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/PermissionsEx.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/ModexAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>
