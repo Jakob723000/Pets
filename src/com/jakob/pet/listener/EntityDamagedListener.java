@@ -17,7 +17,7 @@ public class EntityDamagedListener implements Listener {
                 canKill = mv.asString().equals("canKill");
             }
         }
-        else
+        else if(ede.getEntity().getPassenger() != null)
         {
             for (MetadataValue mv : ede.getEntity().getMetadata(ede.getEntity().getPassenger().getName())) {
                 canKill = mv.asString().equals("canKill");
